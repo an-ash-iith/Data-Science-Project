@@ -1,1 +1,2 @@
 # Data-Science-Project
+This project was conducted under the supervision of Prof. Shantunai Desai as part of a data science course. In this project, we analyzed COVID-19 data and made predictions based on the behavior of the graph. Specifically, I attempted to fit a Gaussian Mixture Model (GMM), applied Markov Chain Monte Carlo (MCMC) methods, and utilized Expectation Maximization (EM) with desicion boundary.
